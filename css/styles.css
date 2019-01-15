@@ -1,0 +1,42 @@
+#walrus-showing {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+#seal-showing {
+  display: none;
+}
+.seal-slidein {
+  cursor: crosshair;
+  color: green;
+}
+.seal-slideout {
+  cursor: crosshair;
+  color: green;
+}
+#sealion-showing {
+  display: none;
+}
+.sealion-slidein {
+  cursor: help;
+  color: red;
+}
+.sealion-slideout {
+  cursor: help;
+  color: red;
+}
+#text-showing {
+  display: none;
+}
+.clickabletext {
+  cursor: progress;
+  color: yellow;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
